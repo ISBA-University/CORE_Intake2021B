@@ -407,8 +407,8 @@ class: left
 
 Von einer "normalen" Aktie zur [Meme-Aktie](https://www.morningstar.de/de/news/213095/was-ist-eine-meme-aktie.aspx)
 
-```{r, echo=FALSE,out.width = "100%"}
-knitr::include_url("../images/unit02/AppropriateModel-BspGamestop.png",height = "500px")
+```{r, echo=FALSE,out.width = "90%"}
+knitr::include_url("../images/unit02/ModelsGamestop_small.png",height = "500px")
 ```
 
 
